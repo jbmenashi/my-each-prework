@@ -7,6 +7,6 @@ def my_each(array)
   array
 end
 
-my_each(collection) do |element|
+my_each(array) do |element|
   puts element
 end
