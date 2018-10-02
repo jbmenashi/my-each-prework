@@ -7,6 +7,6 @@ def my_each(array)
   array
 end
 
-my_each([1,2,3]) do |element|
-  element
-end
+# my_each([1,2,3]) do |element|
+#   element
+# end
